@@ -22,7 +22,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### Framework
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 <!--
 **sammundong/sammundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
