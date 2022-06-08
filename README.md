@@ -4,7 +4,7 @@
 
 ![sammundong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammundong&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ls011031)]
-(https://solved.ac/ls011031/)
+
 
 # ⚡ Skills
 ### Languages
