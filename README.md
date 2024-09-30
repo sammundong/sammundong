@@ -10,7 +10,9 @@
 ![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white)
 ![DART](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white)
 ### Tools
 
 ![git](https://img.shields.io/badge/Git-05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
