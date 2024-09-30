@@ -1,16 +1,15 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">  
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp  
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp  
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp  
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp  
+<img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
 <div align="center">  
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp  
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp  
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp  
+<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp  
+<img src="https://img.shields.io/badge/Algorithm-FF6F00.svg?style=for-the-badge" />&nbsp
 </div>
-<br>
 <div align="center">  
   <img src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp  
   <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" />&nbsp  
@@ -22,6 +21,9 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp  
+<img src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp  
+<img src="https://img.shields.io/badge/Kopring-2F74C0.svg?style=for-the-badge" />&nbsp
 
 </div>
 
@@ -38,8 +40,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
