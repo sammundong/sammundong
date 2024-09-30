@@ -24,6 +24,8 @@
 
 ### Framework
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+
 
 <!--
 **sammundong/sammundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
