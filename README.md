@@ -1,3 +1,7 @@
+**안녕하세요**
+
+Welcome to my profile
+##
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">  
@@ -18,7 +22,6 @@
 
 
 <br>
-
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp  
@@ -48,3 +51,19 @@
 </div>
 
 <br>
+
+## my history
+* 2021 동아대학교 DevDay 최우수상
+* Google Developer Student Clubs 1기 leader 수료
+* 2022 GDSC Conference Code bridge 총괄
+* 2023 GDSC 부산 연합 해커톤 “JUST CODE IT” 수상 (대상)
+* 2022 지역현안해결대학수업지원 프로젝트 부산 시장장(1등)
+* 2023 제4회 대학생 지산학 아이디어 경진대회 대상(1등)
+* 2021 동아대학교 DevDay 최우수상
+* 2024년 1제1회 전국대학 소프트웨어 성과 공유 포럼 우수상
+* 2021.9 ~ 2022.8 DAU PLLAB 학부인턴
+* 2022.8 ~ 2024.1 DAU CGLAB 학부인턴
+* 2024.3 ~ 직공대표
+
+
+
