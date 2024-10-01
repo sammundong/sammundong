@@ -53,13 +53,13 @@ Welcome to my profile
 <br>
 
 ## my history
-* 2021 동아대학교 DevDay 최우수상
-* Google Developer Student Clubs 1기 leader 수료
+* 2021 DAU DevDay 최우수상
+* Google Developer Student Clubs DAU 1기 leader 수료
 * 2022 GDSC Conference Code bridge 총괄 [link](https://gdsc-donga.github.io/codebridge)
 * 2023 GDSC 부산 연합 해커톤 “JUST CODE IT” 수상 (대상)
 * 2022 지역현안해결대학수업지원 프로젝트 부산 시장장(1등) [link](https://www.nbntv.kr/news/articleView.html?idxno=285550)
 * 2023 제4회 대학생 지산학 아이디어 경진대회 대상(1등) [link](https://m.cnbnews.com/m/m_article.html?no=635238)
-* 2021 동아대학교 DevDay 최우수상
+* 2021 DAU DevDay 최우수상
 * 2024년 1제1회 전국대학 소프트웨어 성과 공유 포럼 우수상
 * 2021.9 ~ 2022.8 DAU PLLAB 학부인턴
 * 2022.8 ~ 2024.1 DAU CGLAB 학부인턴
